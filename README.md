@@ -12,3 +12,5 @@ Perform a full TCP SYN network scan, analyze captured packets, identify services
 7-Identified Potential risks
 8-Saved scanning Result using cherry tree and exported into symple html format , where we can load it in offline also.
 Tools used :- Nmap , Wireshark , tcpdump , Linux Terminal 
+
+**To run the html file download the repository and run the index.html File**
